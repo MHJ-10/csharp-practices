@@ -1,0 +1,14 @@
+F:\csharp-projects\practiceOne\practiceOne\bin\Debug\net6.0\practiceOne.exe
+F:\csharp-projects\practiceOne\practiceOne\bin\Debug\net6.0\practiceOne.deps.json
+F:\csharp-projects\practiceOne\practiceOne\bin\Debug\net6.0\practiceOne.runtimeconfig.json
+F:\csharp-projects\practiceOne\practiceOne\bin\Debug\net6.0\practiceOne.dll
+F:\csharp-projects\practiceOne\practiceOne\bin\Debug\net6.0\practiceOne.pdb
+F:\csharp-projects\practiceOne\practiceOne\obj\Debug\net6.0\practiceOne.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp-projects\practiceOne\practiceOne\obj\Debug\net6.0\practiceOne.AssemblyInfoInputs.cache
+F:\csharp-projects\practiceOne\practiceOne\obj\Debug\net6.0\practiceOne.AssemblyInfo.cs
+F:\csharp-projects\practiceOne\practiceOne\obj\Debug\net6.0\practiceOne.csproj.CoreCompileInputs.cache
+F:\csharp-projects\practiceOne\practiceOne\obj\Debug\net6.0\practiceOne.dll
+F:\csharp-projects\practiceOne\practiceOne\obj\Debug\net6.0\refint\practiceOne.dll
+F:\csharp-projects\practiceOne\practiceOne\obj\Debug\net6.0\practiceOne.pdb
+F:\csharp-projects\practiceOne\practiceOne\obj\Debug\net6.0\practiceOne.genruntimeconfig.cache
+F:\csharp-projects\practiceOne\practiceOne\obj\Debug\net6.0\ref\practiceOne.dll
