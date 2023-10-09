@@ -1,0 +1,14 @@
+F:\csharp-projects\practiceTwo\practiceTwo\bin\Debug\net6.0\practiceTwo.exe
+F:\csharp-projects\practiceTwo\practiceTwo\bin\Debug\net6.0\practiceTwo.deps.json
+F:\csharp-projects\practiceTwo\practiceTwo\bin\Debug\net6.0\practiceTwo.runtimeconfig.json
+F:\csharp-projects\practiceTwo\practiceTwo\bin\Debug\net6.0\practiceTwo.dll
+F:\csharp-projects\practiceTwo\practiceTwo\bin\Debug\net6.0\practiceTwo.pdb
+F:\csharp-projects\practiceTwo\practiceTwo\obj\Debug\net6.0\practiceTwo.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp-projects\practiceTwo\practiceTwo\obj\Debug\net6.0\practiceTwo.AssemblyInfoInputs.cache
+F:\csharp-projects\practiceTwo\practiceTwo\obj\Debug\net6.0\practiceTwo.AssemblyInfo.cs
+F:\csharp-projects\practiceTwo\practiceTwo\obj\Debug\net6.0\practiceTwo.csproj.CoreCompileInputs.cache
+F:\csharp-projects\practiceTwo\practiceTwo\obj\Debug\net6.0\practiceTwo.dll
+F:\csharp-projects\practiceTwo\practiceTwo\obj\Debug\net6.0\refint\practiceTwo.dll
+F:\csharp-projects\practiceTwo\practiceTwo\obj\Debug\net6.0\practiceTwo.pdb
+F:\csharp-projects\practiceTwo\practiceTwo\obj\Debug\net6.0\practiceTwo.genruntimeconfig.cache
+F:\csharp-projects\practiceTwo\practiceTwo\obj\Debug\net6.0\ref\practiceTwo.dll
