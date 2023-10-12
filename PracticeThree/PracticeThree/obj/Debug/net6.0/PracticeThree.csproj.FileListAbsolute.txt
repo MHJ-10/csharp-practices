@@ -1,0 +1,14 @@
+F:\csharp-projects\PracticeThree\PracticeThree\bin\Debug\net6.0\PracticeThree.exe
+F:\csharp-projects\PracticeThree\PracticeThree\bin\Debug\net6.0\PracticeThree.deps.json
+F:\csharp-projects\PracticeThree\PracticeThree\bin\Debug\net6.0\PracticeThree.runtimeconfig.json
+F:\csharp-projects\PracticeThree\PracticeThree\bin\Debug\net6.0\PracticeThree.dll
+F:\csharp-projects\PracticeThree\PracticeThree\bin\Debug\net6.0\PracticeThree.pdb
+F:\csharp-projects\PracticeThree\PracticeThree\obj\Debug\net6.0\PracticeThree.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp-projects\PracticeThree\PracticeThree\obj\Debug\net6.0\PracticeThree.AssemblyInfoInputs.cache
+F:\csharp-projects\PracticeThree\PracticeThree\obj\Debug\net6.0\PracticeThree.AssemblyInfo.cs
+F:\csharp-projects\PracticeThree\PracticeThree\obj\Debug\net6.0\PracticeThree.csproj.CoreCompileInputs.cache
+F:\csharp-projects\PracticeThree\PracticeThree\obj\Debug\net6.0\PracticeThree.dll
+F:\csharp-projects\PracticeThree\PracticeThree\obj\Debug\net6.0\refint\PracticeThree.dll
+F:\csharp-projects\PracticeThree\PracticeThree\obj\Debug\net6.0\PracticeThree.pdb
+F:\csharp-projects\PracticeThree\PracticeThree\obj\Debug\net6.0\PracticeThree.genruntimeconfig.cache
+F:\csharp-projects\PracticeThree\PracticeThree\obj\Debug\net6.0\ref\PracticeThree.dll
