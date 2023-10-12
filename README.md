@@ -8,3 +8,9 @@
 
   Create an abstract class and named it Animal that this class has some methods and data.
   next create multiple instances of it.
+
+# Practice Three
+
+  Create a program that receives information about crypto currencies from API and prints the name and price of each crypto currency in console.
+  in this progrom i used cryptocompare as API.
+  You can create account in https://www.cryptocompare.com/ and then get your unique api-key. also you can read documentation to learn how to use it.
