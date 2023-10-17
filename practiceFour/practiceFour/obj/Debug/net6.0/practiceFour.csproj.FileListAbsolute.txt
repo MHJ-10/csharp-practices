@@ -1,0 +1,14 @@
+F:\csharp-projects\practiceFour\practiceFour\obj\Debug\net6.0\practiceFour.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp-projects\practiceFour\practiceFour\obj\Debug\net6.0\practiceFour.AssemblyInfoInputs.cache
+F:\csharp-projects\practiceFour\practiceFour\obj\Debug\net6.0\practiceFour.AssemblyInfo.cs
+F:\csharp-projects\practiceFour\practiceFour\obj\Debug\net6.0\practiceFour.csproj.CoreCompileInputs.cache
+F:\csharp-projects\practiceFour\practiceFour\bin\Debug\net6.0\practiceFour.exe
+F:\csharp-projects\practiceFour\practiceFour\bin\Debug\net6.0\practiceFour.deps.json
+F:\csharp-projects\practiceFour\practiceFour\bin\Debug\net6.0\practiceFour.runtimeconfig.json
+F:\csharp-projects\practiceFour\practiceFour\bin\Debug\net6.0\practiceFour.dll
+F:\csharp-projects\practiceFour\practiceFour\bin\Debug\net6.0\practiceFour.pdb
+F:\csharp-projects\practiceFour\practiceFour\obj\Debug\net6.0\practiceFour.dll
+F:\csharp-projects\practiceFour\practiceFour\obj\Debug\net6.0\refint\practiceFour.dll
+F:\csharp-projects\practiceFour\practiceFour\obj\Debug\net6.0\practiceFour.pdb
+F:\csharp-projects\practiceFour\practiceFour\obj\Debug\net6.0\practiceFour.genruntimeconfig.cache
+F:\csharp-projects\practiceFour\practiceFour\obj\Debug\net6.0\ref\practiceFour.dll
