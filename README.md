@@ -14,3 +14,7 @@
   Create a program that receives information about crypto currencies from API and prints the name and price of each crypto currency in console.
   in this progrom i used cryptocompare as API.
   You can create account in https://www.cryptocompare.com/ and then get your unique api-key. also you can read documentation to learn how to use it.
+
+# Practice Four 
+
+  Create a program that have multiple classes like HR, Bank, Employee, Financial and these classes are related to each other.
