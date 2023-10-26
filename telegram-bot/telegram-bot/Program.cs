@@ -1,6 +1,8 @@
 ﻿using telegram_bot;
 
-var bot = new TelegramBot("6962742586:AAEUdzLpKEKJlNVylubLQhrk4wBB2NtQkTI");
+
+// replace {TOKEN} with the token that you get from BotFather
+var bot = new TelegramBot("{TOKEN}");
 
 bot.StartBot();
 
