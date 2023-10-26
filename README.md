@@ -18,3 +18,7 @@
 # Practice Four 
 
   Create a program that have multiple classes like HR, Bank, Employee, Financial and these classes are related to each other.
+
+# Telegram Bot
+
+  Create a bot in telegram.
