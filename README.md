@@ -22,3 +22,7 @@
 # Telegram Bot
 
   I used spoonacular api for this practice. In this way, when the user enters the food name in the bot, a list of foods that contains food name will be displayed to user and by clicking on the desired food,user can see the recipe of the food.
+
+# Point API
+  Create a program that returns yes in the api if three points are on the same line and returns no otherwise.
+  
